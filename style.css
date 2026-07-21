@@ -414,3 +414,20 @@ background-size:cover;
 .fa-phone:hover{
     color:#D4AF37;
     }
+.youtube-btn{
+    display:inline-flex;
+    align-items:center;
+    gap:12px;
+    background:#ff0000;
+    color:#fff;
+    padding:14px 24px;
+    border-radius:10px;
+    text-decoration:none;
+    font-size:18px;
+    font-weight:bold;
+    margin-top:15px;
+}
+
+.youtube-btn i{
+    font-size:30px;
+}
