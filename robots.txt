@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://johnkhokhar148-netizen.github.io/jk-enterprise/sitemap.xml
